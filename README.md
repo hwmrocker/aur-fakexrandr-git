@@ -13,4 +13,4 @@ makepkg -si
 
 ## Links
 * Upstream: https://github.com/phillipberndt/fakexrandr
-* AUR: https://aur.archlinux.org/packages/fakexrandr
+* AUR: https://aur.archlinux.org/packages/fakexrandr-git
